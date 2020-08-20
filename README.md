@@ -1,1 +1,1 @@
-# cusp-frontend
+# cusp_influencers
